@@ -9,3 +9,5 @@ MENTOR : NEELA SANTHOSH
 TASK 4: HOME APP INTERFACE 
 
 OUTPUT
+
+<img width="2412" height="903" alt="Image" src="https://github.com/user-attachments/assets/895303ff-e3af-4519-8969-336ff683cf21" />
